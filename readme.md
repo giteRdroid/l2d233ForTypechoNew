@@ -20,7 +20,7 @@ r18皮肤请直接在插件路径下的 `model/api.php` 中找到 `$r18 = true;`
 由于原项目使用 GPL 2.0 协议，故本项目也采用相同的开源协议进行授权。
 
 插件移植自WordPress插件https://github.com/xb2016/poster-girl-l2d-2233
-并基于泽泽https://qqdie.com/archives/l2d233.html的旧版本做升级适配
+并基于泽泽 https://qqdie.com/archives/l2d233.html 的旧版本做升级适配
 
 另，2233版权归 bilibili 所有！
 
