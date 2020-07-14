@@ -1,4 +1,4 @@
-# poster-girl-l2d-2233
+# l2d233-For-Typecho-New
 2233娘的 Live2D 看板娘插件(typecho)！
 
 插件发布地址:https://github.com/Rickdroid/l2d233ForTypechoNew
