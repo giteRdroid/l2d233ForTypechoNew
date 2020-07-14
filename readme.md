@@ -1,7 +1,7 @@
 # poster-girl-l2d-2233
 2233娘的 Live2D 看板娘插件(typecho)！
 
-插件发布地址:
+插件发布地址:https://github.com/Rickdroid/l2d233ForTypechoNew
 
 已更新到原作者的最新版，增加了2020的新年皮肤，还有~~18r~~（你懂得）皮肤等。
 
